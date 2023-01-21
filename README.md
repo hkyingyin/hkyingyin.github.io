@@ -1,6 +1,6 @@
 # HKyy 祝各位兔年快乐~~ 
 ## 常见问题的Q&A (请仔细阅读,90%的问题答案都可以在这里找到，客服v在最后)
-#### [安装流程(点击这里)](https://www.pianpianduo.com/) 
+### [安装流程(点击这里)](https://www.pianpianduo.com/) 
 
 ## 关于我们：
 专注于高质量资源，致力于提供最好的观影体验，目前资源60,000，每天早晚持续更新
@@ -57,10 +57,12 @@ IOS: Infuse Pro
 
 Mac/Macbook: Infuse Pro
 
-（陶👶搜: infuse pro 永久）
+（陶保搜: infuse pro 永久）
 
 ## 关于下载问题：
 下载是不允许的，下载可能会导致账号被禁用。
 
-## 祝您观影愉快 
 ### 客服vx:hulkmovies (欢迎骚扰)
+
+## 祝您观影愉快 
+
