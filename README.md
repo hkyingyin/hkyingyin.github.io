@@ -1,7 +1,7 @@
 # HKyy 祝各位兔年快乐~~ 
 ## 常见问题的Q&A (请仔细阅读,90%的问题答案都可以在这里找到)
 
-### 客服vx:hulkmovies (加着当备用，有任何问题可以这里问，欢迎骚扰~)
+### 客服vx: hulkmovies (加着当备用，有任何问题可以这里问，欢迎骚扰~)
 
 ### [Infuse Pro 和 Emby 安装流程(点击这里)](https://www.pianpianduo.com/) 
 
