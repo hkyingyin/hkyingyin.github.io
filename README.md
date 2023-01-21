@@ -60,4 +60,4 @@ Mac/Macbook: Infuse Pro
 下载是不允许的，下载可能会导致账号被禁用。
 
 ## 祝您观影愉快 
-客服微信:hulkmovies
+客服vx:hulkmovies
