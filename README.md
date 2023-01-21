@@ -60,7 +60,7 @@ IOS: Infuse Pro
 
 Mac/Macbook: Infuse Pro
 
-（陶保搜: infuse pro 永久）
+（陶保或咸鱼搜: infuse pro 永久）
 
 ## 关于下载问题：
 下载是不允许的，下载可能会导致账号被禁用。
