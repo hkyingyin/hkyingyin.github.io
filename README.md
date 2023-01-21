@@ -3,7 +3,7 @@
 
 ### 客服vx:hulkmovies (欢迎骚扰)
 
-### [安装流程(点击这里)](https://www.pianpianduo.com/) 
+### [Infuse Pro 和 Emby 安装流程(点击这里)](https://www.pianpianduo.com/) 
 
 ## 关于我们：
 专注于高质量资源，致力于提供最好的观影体验，目前资源60,000，每天早晚持续更新
