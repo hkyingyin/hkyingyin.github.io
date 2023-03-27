@@ -4,9 +4,9 @@
 #### [Emby安装流程点击(不要下载里面的软件)](https://www.pianpianduo.com/)
 #### [Infuse安装流程点击](https://www.pianpianduo.com/infsue)
 #### 安卓TV:
-1. 安卓tv应用链接: https://wwp.lanzoup.com/iriPv0i4inpe 提取码 : 3bvv 
-2. 华为电视、TCL、小米电视应用链接：https://wwp.lanzoup.com/i24KH0l73ohi 提取码 : 8hsi
-3. Sony电视应用链接https://wwp.lanzoup.com/iQAUD0o0jwta  提取码 : bleo (在浏览器中把apk文件下载到 U 盘里，插在电视 USB 口上 在电视安卓系统里安装即可)
+1. 安卓tv应用安装链接: https://wwp.lanzoup.com/iriPv0i4inpe 提取码 : 3bvv 
+2. 华为电视、TCL、小米电视应用安装链接：https://wwp.lanzoup.com/i24KH0l73ohi 提取码 : 8hsi
+3. Sony电视应用安装链接：https://wwp.lanzoup.com/iQAUD0o0jwta  提取码 : bleo (在浏览器中把apk文件下载到 U 盘里，插在电视 USB 口上 在电视安卓系统里安装即可)
 4. LG电视的客户：电视换区到 港区或者 美区 去LG 官方App商店里面下载 emby。
 
 **安卓手机**：https://wwp.lanzoup.com/i52jV0i4k5qj 提取码 : 69y7 (请在手机浏览器中下载)
