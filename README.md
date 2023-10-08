@@ -3,7 +3,7 @@
 
 #### [Emby安装流程点击(不要下载里面的软件)](https://www.pianpianduo.com/)
 #### [Infuse安装流程点击](https://www.pianpianduo.com/infsue)
-#### 安卓TV:
+#### 安卓TV: ([点击安卓TV安装Emby流程](https://hkyingyin.github.io/tutorialhkyy.github.io/img/emby_tv_tutorial.JPG))
 
 
 一、下载链接: https://wwp.lanzoup.com/iriPv0i4inpe 提取码 : 3bvv （安卓tv通用） 
